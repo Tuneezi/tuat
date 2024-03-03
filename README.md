@@ -18,14 +18,14 @@ Dependencies:
 
 Setup Instructions:
 1. Install Python and Flask.
-2. Clone the repository: git clone https://github.com/johndoe/chatgpt-helper.git
+2. Clone the repository: git clone https://github.com/Tuneezi/tuat
 3. Navigate to the project directory: cd chatgpt-helper
 4. Install dependencies: pip install -r requirements.txt
 5. Run the application: python app.py
 
 Usage:
 1. Open your web browser.
-2. Visit http://localhost:5000.
+2. Visit https://github.com/Tuneezi/
 3. Interact with the chatbot and get assistance.
 
 Contributing Guidelines:
